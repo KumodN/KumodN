@@ -1,8 +1,6 @@
 ![LOGO](https://github.com/kumodcodes/kumodcodes/assets/116749725/78c57802-730d-4f37-9370-9cdaebf22771)
-### Watch my contribution graph get eaten by the snake 🐍
 
-![GitHub Snake Animation](https://github.com/KumodN/snk/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake Animation](https://github.com/KumodN/KumodN/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hey 👋, It's me, Kumod!!!</h1>
 <h6 align="center">
