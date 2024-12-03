@@ -68,7 +68,7 @@
     <a href="https://stackoverflow.com/users/kumod-de-silva" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kumod-de-silva" height="20" width="30" />
     </a>
-    <a href="https://instagram.com/ku.mod__x" target="blank">
+    <a href="https://instagram.com/ku.moddd" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ku.moddd" height="20" width="30" />
     </a>
   </div>
