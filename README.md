@@ -1,6 +1,9 @@
 ![LOGO](https://github.com/kumodcodes/kumodcodes/assets/116749725/78c57802-730d-4f37-9370-9cdaebf22771)
 
-![GitHub Snake Animation](https://github.com/KumodN/KumodN/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/KumodN/KumodN/blob/output/github-snake-dark.svg)
+</div>
 
 <h1 align="center">Hey 👋, It's me, Kumod!!!</h1>
 <h6 align="center">
