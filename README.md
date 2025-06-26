@@ -1,17 +1,17 @@
-![LOGO](https://github.com/kumodcodes/kumodcodes/assets/116749725/78c57802-730d-4f37-9370-9cdaebf22771)
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+<h1 align="center">Hello, It's Kumod 👋</h1>
 
-<div align="center">
-  
+<div align="center" width="1000">
+ 
   ![snake gif](https://github.com/KumodN/KumodN/blob/output/github-snake-dark.svg)
 </div>
-
-<h1 align="center">Hey, It's me, Kumod!!!</h1>
 <h6 align="center">
-“Comment your code, future you will thank you!” - Kumod
+Watch the snake eat my contributions!
 </h6>
-<div>
-  (https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-</div>
+
+
 
 <div align="center">
   <br>
@@ -22,11 +22,11 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack / KOTLIN**
+- 🌱 I’m currently learning **Spring-Boot and React Native**
 
-- 📚 Building an amazing **Laundry Management System** for my project.
+- 📚 Building an amazing **ERP System** for my project.
   
-- 🖥️ Leveling up my skills in Java, Python, and Machine Learning.
+- 🖥️ Leveling up my skills in Java, Oracle, and Docker.
 
 - 📫 How to reach me **kumodnenuk@gmail.com**
 <br>
