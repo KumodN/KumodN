@@ -65,7 +65,7 @@
 <a href="https://linkedin.com/in/kumod-de-silva">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
 </a>
-<a href="https://stackoverflow.com/users/19870974/kumod-de-silva">
+<a href="https://stackoverflow.com/users/19870974/kumoddesilva">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30"/>
 </a>
 <a href="https://instagram.com/ku.moddd">
