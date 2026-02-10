@@ -7,16 +7,10 @@
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
 <div align="center">
   <img src="https://github.com/KumodN/KumodN/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
   <p><i>Watch the snake eat my contributions</i></p>
 </div>
-
----
 
 ## 🚀 About Me
 
