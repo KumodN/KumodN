@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/KumodN/KumodN/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/Sanith16684/Sanith16684/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
   <p><i>Watch the snake eat my contributions</i></p>
 </div>
 
